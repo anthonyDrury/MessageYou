@@ -23,6 +23,8 @@ nav {
   display: flex;
   justify-content: space-evenly;
   background: black;
+  position: absolute;
+  width: 100%;
 }
 
 nav a {
